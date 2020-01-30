@@ -1,0 +1,171 @@
+.wc_oe-select-interval {
+    width: 150px;
+}
+
+.wc_oe-select-weekday {
+    width: 80px;
+}
+
+#d-shedule-3 input[type="submit"] {
+    margin: 3px;
+}
+
+#schedule-1 {
+    margin-top: 8px;
+}
+
+#schedule-2,
+#schedule-3,
+#schedule-4 {
+    margin-top: 8px;
+}
+
+#d-schedule-2 {
+    padding-bottom: 10px;
+}
+
+.wc-oe-schedule-type {
+    float: left;
+}
+
+#d-schedule-3 .block,
+#d-schedule-4 .block,
+#d-schedule-5 .block {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+#d-schedule-3 .block.disabled,
+#d-schedule-4 .block.disabled,
+#d-schedule-5 .block.disabled {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+#d-schedule-3 .input-times,
+#d-schedule-4 .input-date-times {
+    width: 100%;
+    min-height: 30px;
+    background-color: white;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: text;
+    margin: 3px;
+    display: inline-block;
+}
+
+#d-schedule-3 .time,
+#d-schedule-4 .time {
+    background-color: #e4e4e4;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: default;
+    float: left;
+    margin: 5px;
+    padding: 0 5px;
+}
+
+#d-schedule-3 .btn-delete,
+#d-schedule-4 .btn-delete {
+    color: #999;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 2px;
+}
+
+#d-schedule-3 .btn-delete:hover,
+#d-schedule-4 .btn-delete:hover {
+    color: #333;
+}
+
+#d-schedule-4 .date-picker .datetimes-date {
+    max-width: 120px;
+    height: 28px;
+    vertical-align: middle;
+    background: url("../img/calendar.png") 98px 5px no-repeat;
+}
+
+.woe-row-sort-handle {
+    width: 20px;
+    height: 20px;
+    color: black;
+    cursor: move;
+}
+
+#reorder_section {
+    display: inline-block;
+}
+
+#reorder_section #apply_reorder, #reorder_section #cancel_reorder {
+    display: none;
+}
+
+.license_paragraph {
+    margin: 15px 0 15px 0;
+}
+
+#license_help_text {
+    background-color: white;
+    border: 1px #b2b2b2 solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px 0 15px 0;
+}
+
+#my-shedule-days .wc_oe-select-interval {
+    width: 55%;
+}
+
+#my-shedule-days .input-mins-custom-interval {
+    max-width: 100px;
+}
+
+#custom_interval {
+    display: none;
+}
+
+.my-test-button {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-radius: 3px !important;
+    border-color: #ccc !important;
+    margin-left: 0px !important;
+}
+
+.tablenav.top {
+    margin-bottom: 10px;
+}
+
+.tablenav.top * {
+    vertical-align: middle;
+}
+
+.tablenav.top select {
+    margin: 0 6px 0 0;
+    height: 28px;
+}
+
+.tablenav.top div {
+    display: inline-block;
+}
+
+.tablenav.top #doaction {
+    margin: 0 6px 0 0;
+    height: 32px;
+}
+
+.weekday label {
+    width: 10px;
+    float: left;
+    margin: 0px 15px;
+    font-weight: bold;
+}
+
+.weekday {
+    float: left;
+}
+
+.wc_oe-row {
+    margin: 7px;
+}
